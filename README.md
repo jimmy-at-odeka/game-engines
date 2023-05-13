@@ -1,2 +1,60 @@
-# game-engines
+# Game Engines
+
 List of game engines with notes and pricing summary.
+
+- BabylonJS - https://www.babylonjs.com
+	- Cross Platform
+	- Open Source
+	- Free
+- Cocos Creator, Cocos2d-x - https://www.cocos.com
+	- 2D & 3D
+	- Cross Platform
+	- Open Source
+	- Free
+- CryEngine - https://www.cryengine.com
+	- [5% royalty fee after $5K of annual revenue](https://www.cryengine.com/support/view/licensing)
+- GameMaker - https://gamemaker.io
+	- 2D
+	- Cross Platform
+	- Free tier
+	- Paid plans for export targets
+- Godot - https://godotengine.org
+	- Open Source
+	- Free
+- Open 3D Engine - https://www.o3de.org
+	- Formerly [Amazon Lumberyard](https://en.wikipedia.org/wiki/Amazon_Lumberyard) which was based on CryEngine
+	- [Cross Platform](https://www.o3de.org/docs/welcome-guide/supported-platforms/)
+	- Open source
+	- Free
+- NVList - https://github.com/anonl/nvlist
+	- Visual novel engine
+	- Lua
+	- [Apache License](https://github.com/anonl/nvlist/blob/master/LICENSE)
+	- Free
+- Rakugo - https://github.com/rakugoteam/Rakugo
+	- Godot plugin for creating visual novels
+	- Inspired by Ren'Py
+	- [MIT License](https://github.com/rakugoteam/Rakugo/blob/main/LICENSE)
+	- Free
+- Ren'Py - https://www.renpy.org
+	- Most popular visual novel engine
+	- Free
+- RPG Maker - https://www.rpgmakerweb.com
+	- Various RPG creation products
+	- $25-$80 [Komodo](https://plaza-us.komodo.jp/collections/rpg-maker) | [Steam](https://store.steampowered.com/search/?developer=Gotcha%20Gotcha%20Games)
+- Suika2 - https://suika2.com
+	- Visual novel engine
+	- Japanese
+	- [Open Source](https://github.com/suika2engine/suika2) ([MIT License](https://github.com/suika2engine/suika2))
+	- Free
+- TyranoBuilder - https://tyranobuilder.com
+	- Visual novel engine
+	- [$15](https://tyranobuilder.com/buynow)
+- Unity - https://unity.com
+	- Free for personal use with limited feature-set
+	- Free version also adds some Unity branding to the published game
+	- [$399-$2,040/yr per seat](https://store.unity.com/compare-plans)
+- Unreal - https://www.unrealengine.com
+	- [5% royalty fee after $1M lifetime gross revenue](https://www.unrealengine.com/en-US/eula/unreal)
+- Visual Novel Maker - https://visualnovelmaker.com
+	- [$60-$70](https://store.steampowered.com/app/495480/Visual_Novel_Maker/)
